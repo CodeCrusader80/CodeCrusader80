@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CodeCrusader80 or Mathieu for close friends, both work for me.
+<h1>Hi, <strong>I’m @CodeCrusader80 or Mathieu</strong> for close friends, both work for me</h1>
 - 👀 I’m interested in AI, search, programming all the web !
 - 🌱 I’m currently learning Swift, CoreML, HTML, CSS, React and Pyhton yes it's a lot but why not ?
 - 💞️ In search of collaboration on various projects, I am not picky and am always eager to learn.
