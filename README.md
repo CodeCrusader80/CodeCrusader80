@@ -1,4 +1,4 @@
-<h1>Hi, <strong>I’m @CodeCrusader80 or Mathieu</strong> for close friends, both work for me</h1>
+<h1>Hi, <strong>I’m CodeCrusader80 or Mathieu</strong> for close friends, both work for me</h1>
 
 <ul>
 <li>👀 I’m interested in AI, search, programming all the web !</li>
