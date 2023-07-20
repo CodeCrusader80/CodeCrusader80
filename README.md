@@ -1,10 +1,12 @@
-<h1>Hi, I'm Mathieu french developer 🇫🇷 welcome to my profile 🤙</h1>
+<h1 align="center">Hi I'm Mathieu french developer 🇫🇷, welcome to my profile 🤙</h1>
 <img src="https://github.com/CodeCrusader80/swift-ui-jurassic-animation/blob/main/gif/illustrationreadme.png" width="100%" height="auto">
 
 I am currently working on setting up my business in web development and Swift. I'm looking for contributions in all areas, after all that's how we grow up so don't hesitate!<br>Very curious by nature and especially with tech, I am very attentive to novelties and lately obviously AI which fascinates me to the highest degree.<br> My story is not necessarily very different from most other devs, passionate about tech since I was little, I've always had a certain attraction for code and everything that surrounds it. Following some turbulence in my professional life, I questioned many things and in particular what I really wanted in my life and what was necessary for my well-being, after many hours of reflection the verdict did not come been able to distract me from this path that now wishes to explore to find a better balance and fulfillment through my work. Do not hesitate to let me know what you consider necessary if among my projects you notice any errors or possible improvements to propose, after all it is a discipline that requires constant learning 😉
 
+<h2 align="center">"Follow your dreams, believe in yourself, and don't give up." - Rachel Corrie</h2>
 
-## 🌐 Socials:
+
+# 🌐 Socials:
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@mat80) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@theunknowman_80) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/CodeCrusader80) 
 
 # 💻 Tech Stack:
