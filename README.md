@@ -14,14 +14,15 @@ I am currently working on setting up my business in web development and Swift. I
 
 <h2 align="center">"Follow your dreams, believe in yourself, and don't give up." - Rachel Corrie</h2>
 
-<h1 font-size="45px" align="center">Portfolio</h1>
+<h1 font-size="60px" align="center">Portfolio</h1>
 
 <h3 align="center">TVPulse</h3>
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white) [![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
 
 <h4>Short description of the project</h4>
-<p>A React application that uses the TMDB API to find TV shows and offer recommendations based on your selection.Click on the image to access the application</p>
+<p>A React application that uses the TMDB API to find TV shows and offer recommendations based on your selection. Click on the image to access the application</p>
 
-[![TV Pulse](https://github.com/CodeCrusader80/various-web-stuff/blob/main/assets/Sans%20titre.png)](https://tv-pulse.vercel.app)
+<a href="https://tv-pulse.vercel.app"><img width="100%" height="auto" src="https://github.com/CodeCrusader80/various-web-stuff/blob/main/assets/Sans%20titre.png"></a>
+
 
