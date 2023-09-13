@@ -26,4 +26,12 @@ I am currently working on setting up my business in web development and Swift. I
 
 <a href="https://tv-pulse.vercel.app"><img width="100%" height="auto" src="https://github.com/CodeCrusader80/various-web-stuff/blob/main/assets/Sans%20titre.png"></a>
 
+<h3 align="center">CelesicalSyntax</h3>
+
+[![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat&logo=next.js&logoColor=white)](https://nextjs.org/) [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%231a202c.svg?style=flat&logo=tailwind-css&logoColor=38b2ac)](https://tailwindcss.com/) [![Framer Motion](https://img.shields.io/badge/Framer%20Motion-%23000000.svg?style=flat&logo=framer&logoColor=3ff1c6)](https://www.framer.com/motion/)
+
+<h4>Short Desc</h4>
+<p>This project consists of a presentation page for a site specializing in the Metaverse universe. Made from a tutorial on YouTube from the JS Mastery channel, which allowed me to familiarize myself with NextJS as well as Framer Motion. This site also uses TailwindCSS for layout and responsiveness. To get an overview of the project simply click on the illustration image below</p>
+<a href="https://celestialsyntax.vercel.app"><img width="100%" height="auto" src="https://github.com/CodeCrusader80/various-web-stuff/blob/main/assets/F52e1S8WAAEyfx_.jpeg"</a>
+
 
