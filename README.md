@@ -36,8 +36,8 @@ I am currently working on setting up my business in web development and Swift. I
 
 <h3 align="center">3D Portfolio</h3>
 
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![Vite](https://img.shields.io/badge/Vite-%23649EFF.svg?style=for-the-badge&logo=vite&logoColor=white)![ThreeJS](https://img.shields.io/badge/ThreeJS-black?style=for-the-badge&logo=three.js&logoColor=white)![React Three Fiber](https://img.shields.io/badge/React_Three_Fiber-%23black.svg?style=for-the-badge)
-![Drei](https://img.shields.io/badge/Drei-%23black.svg?style=for-the-badge)![Framer Motion](https://img.shields.io/badge/Framer_Motion-%2525A6FF.svg?style=for-the-badge&logo=framer&logoColor=white)![EmailJS](https://img.shields.io/badge/EmailJS-%23white.svg?style=for-the-badge&logo=EmailJS)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![Vite](https://img.shields.io/badge/Vite-%23649EFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![ThreeJS](https://img.shields.io/badge/ThreeJS-black?style=for-the-badge&logo=three.js&logoColor=white) ![React Three Fiber](https://img.shields.io/badge/React_Three_Fiber-%23black.svg?style=for-the-badge)
+ ![Drei](https://img.shields.io/badge/Drei-%23black.svg?style=for-the-badge) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-%2525A6FF.svg?style=for-the-badge&logo=framer&logoColor=white) ![EmailJS](https://img.shields.io/badge/EmailJS-%23white.svg?style=for-the-badge&logo=EmailJS)
 
 <h4>Short Desc</h4>
 <p>A portfolio using the power of 3D to highlight skills while taking advantage of framer motion to manage text display animations in a quite friendly way. All running under React obviously and Vite for the build. To begin to familiarize myself with interesting tools, emailJS was used to design the form (well for this first test it is obviously not active).</p>
