@@ -1,4 +1,4 @@
-<h1 align="center">Hi I'm Mathieu french developer 🇫🇷, welcome to my profile 🤙</h1>
+<h1 align="center">Hi I'm Mathieu french developer 🇫🇷</h1>
 <img src="https://github.com/CodeCrusader80/swift-ui-jurassic-animation/blob/main/gif/illustrationreadme.png" width="100%" height="auto">
 <p align="center">
   <a href="https://twitter.com/theunknowman_80"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
