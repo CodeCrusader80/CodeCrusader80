@@ -15,7 +15,11 @@ I'm looking for contributions in all areas, after all that's how we grow up so d
 
 <h2 align="center">"Follow your dreams, believe in yourself, and don't give up." - Rachel Corrie</h2>
 
-<h1 font-size="60px" align="center">Portfolio</h1>
+<h1 align="center" style="font-size: 60px;">Portfolio</h1>
+
+<table>
+<tr>
+    <td width="50%">
 
 <h3 align="center">CelesicalSyntax</h3>
 
@@ -23,7 +27,10 @@ I'm looking for contributions in all areas, after all that's how we grow up so d
 
 <h4>Short Desc</h4>
 <p>This project consists of a presentation page for a site specializing in the Metaverse universe. Made from a tutorial on YouTube from the JS Mastery channel, which allowed me to familiarize myself with NextJS as well as Framer Motion. This site also uses TailwindCSS for layout and responsiveness. To get an overview of the project simply click on the illustration image below</p>
-<a href="https://celestialsyntax.vercel.app"><img width="100%" height="auto" src="https://github.com/CodeCrusader80/various-web-stuff/blob/main/assets/F52e1S8WAAEyfx_.jpeg"</a>
+<a href="https://celestialsyntax.vercel.app"><img width="100%" height="auto" src="https://github.com/CodeCrusader80/various-web-stuff/blob/main/assets/F52e1S8WAAEyfx_.jpeg"></a>
+
+    </td>
+    <td width="50%">
 
 <h3 align="center">3D Portfolio</h3>
 
@@ -35,6 +42,9 @@ I'm looking for contributions in all areas, after all that's how we grow up so d
 
 <a href="https://3d-portfolio-gilt-iota.vercel.app"><img width="100%" height="auto" src="https://raw.githubusercontent.com/CodeCrusader80/various-web-stuff/main/assets/portfolio.png"></a>
 
+    </td>
+</tr>
+</table>
 
 
 
