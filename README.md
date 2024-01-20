@@ -17,15 +17,6 @@ I'm looking for contributions in all areas, after all that's how we grow up so d
 
 <h1 font-size="60px" align="center">Portfolio</h1>
 
-<h3 align="center">TVPulse</h3>
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white) [![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
-
-<h4>Short description of the project</h4>
-<p>A React application that uses the TMDB API to find TV shows and offer recommendations based on your selection. Click on the image to access the application</p>
-
-<a href="https://tv-pulse.vercel.app"><img width="100%" height="auto" src="https://github.com/CodeCrusader80/various-web-stuff/blob/main/assets/Sans%20titre.png"></a>
-
 <h3 align="center">CelesicalSyntax</h3>
 
 [![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat&logo=next.js&logoColor=white)](https://nextjs.org/) [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%231a202c.svg?style=flat&logo=tailwind-css&logoColor=38b2ac)](https://tailwindcss.com/) [![Framer Motion](https://img.shields.io/badge/Framer%20Motion-%23000000.svg?style=flat&logo=framer&logoColor=3ff1c6)](https://www.framer.com/motion/)
