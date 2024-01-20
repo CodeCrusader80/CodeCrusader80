@@ -23,7 +23,7 @@ I'm looking for contributions in all areas, after all that's how we grow up so d
 
 <h3 align="center">CelesicalSyntax</h3>
 
-[![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat&logo=next.js&logoColor=white)](https://nextjs.org/) [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%231a202c.svg?style=flat&logo=tailwind-css&logoColor=38b2ac)](https://tailwindcss.com/) [![Framer Motion](https://img.shields.io/badge/Framer%20Motion-%23000000.svg?style=flat&logo=framer&logoColor=3ff1c6)](https://www.framer.com/motion/)
+[![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat&logo=next.js&logoColor=white)](https://nextjs.org/) [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%231a202c.svg?style=flat&logo=tailwind-css&logoColor=38b2ac)](https://tailwindcss.com/)  ![Framer Motion](https://img.shields.io/badge/Framer_Motion-%2525A6FF.svg?style=for-the-badge&logo=framer&logoColor=white)
 
 <h4>Short Desc</h4>
 <p>This project consists of a presentation page for a site specializing in the Metaverse universe. Made from a tutorial on YouTube from the JS Mastery channel, which allowed me to familiarize myself with NextJS as well as Framer Motion. This site also uses TailwindCSS for layout and responsiveness. To get an overview of the project simply click on the illustration image below</p>
